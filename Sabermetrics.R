@@ -204,7 +204,7 @@ players %>% ggplot(aes(salary, R_hat, color = POS)) +
   geom_point() +
   scale_x_log10()
 
-#################################### Work in progress ... ####################################
+##############################################################################################
 
 # pick the players for the team
 constraint_matrix <- acast(players, POS ~ playerID, fun.aggregate = length)
