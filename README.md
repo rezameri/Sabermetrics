@@ -1,12 +1,10 @@
-#################################### SABERMETRICS PROJECT #################################### 
-#
 # NOTES:
 #
 #   1) The goal of a baseball game is to score more runs (points) than the other team.
 #
 #   2) Each team has 9 batters who have an opportunity to hit a ball with a bat in a 
 #      predetermined order. 
-
+#
 #   3) Each time a batter has an opportunity to bat, we call it a  
 #      plate appearance (PA).
 #
@@ -21,4 +19,4 @@
 #           first base. 
 #  
 #   5) The task is to build the best team with a limited budget of $40 million dollars.
-##############################################################################################
+
